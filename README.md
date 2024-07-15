@@ -1,11 +1,15 @@
 # AmplifyGen2
-Setup Github in antman profile.
-Connect to AWS account 
+Step A: Setup Github.com for keepdevops in antman profile.
+
+Step B: Connect to AWS account keepdevops root account.
 Sign in.
-Set permissions of root and mfa.
-Review instructions of Gen2 - SeeHowItWorks in AWS.
-Setup user role. Setup up AWS Cli.
-Setup in California region.
+
+Step C: Set permissions of root and mfa.
+Step D: Review instructions of Gen2 - SeeHowItWorks in AWS.
+Step E: QuickStart Amplify then download outputs.json move to d:/A/Amplify/...
+STEP  E: Setup user role. 
+STEP F: Setup up AWS Cli for Amplify. 
+STEP G: Setup in California region.
 setup keys ssh -i keygen
 Manual Installation Instructions Amplify Gen2:
 npm create amplify@latest
