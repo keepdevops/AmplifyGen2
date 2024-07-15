@@ -36,6 +36,18 @@ Step I: Review next steps in Amplify download and place outputs.json to local fo
 
 //_____________________________________________________________
 
+In Git.Bash
+ git clone https://github.com/keepdevops/amplify-vite-react-template.git
+cd amplify-vite-react-template
+
+//_____________________________________________________________
+In Terminal:
+npm install 
+//_____________________________________________________________
+
+
+
+
 
 Step K: 
 Manual Installation Instructions Amplify Gen2:
